@@ -1,0 +1,15 @@
+@use '../mixin/abstracts' as *;
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 15rem;
+  margin-top: 0.5rem;
+
+  img {
+    object-fit: cover;
+  }
+}
+
+
