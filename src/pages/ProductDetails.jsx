@@ -268,7 +268,7 @@ const ProductDetails = () => {
         {shouldHaveRelatedProductsValue && (
           <div>
             <h3>Related Products</h3>
-            {/*  */}
+            {/* IMPLEMENT RELATED PRODUCTS HERE */}
           </div>
         )}
       </div>

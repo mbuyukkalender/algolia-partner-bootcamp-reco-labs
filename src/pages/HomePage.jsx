@@ -98,7 +98,7 @@ const HomePage = () => {
       {/*                           PARTNER BOOTCAMP                           */}
       {/* ==================================================================== */}
 
-      {/* ________________ LAB N°2 : TRENDING ITEMS CAROUSEL _________________ */}
+      {/* ________________ LAB N°3 : TRENDING ITEMS CAROUSEL _________________ */}
       
       <div className='home-carousel'>
         <h3>Trending Items</h3>
