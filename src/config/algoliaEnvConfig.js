@@ -8,7 +8,7 @@ import aa from 'search-insights';
 
 // This export represents the information needed for the Algolia API client
 export const searchClientCreds = {
-  APIKey: '704c40b893bec5a1978976f918c619f2',
+  APIKey: '3ee0a9935626b75a1afc33da5ec48b74',
   appID: 'EDEJV24O6Q',
 };
 
