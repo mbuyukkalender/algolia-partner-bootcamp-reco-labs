@@ -107,7 +107,7 @@ const HomePage = () => {
             recommendClient={recommendClient}
             indexName={index}
             itemComponent={RelatedItem}
-            maxRecommendations={5}
+            maxRecommendations={12}
           />
         </div>
       </div>
