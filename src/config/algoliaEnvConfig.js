@@ -21,7 +21,7 @@ export const searchClient = algoliasearch(
 // Please ignore this atom - DO NOT TOUCH
 export const mainIndex = atom({
   key: 'mainIndex', // unique ID (with respect to other atoms/selectors)
-  default: 'bootcamp_products_[name]', // default value (aka initial value)
+  default: 'bootcamp_products', // default value (aka initial value)
 });
 
 // Initialise insights client
